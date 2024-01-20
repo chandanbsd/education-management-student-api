@@ -1,0 +1,12 @@
+CREATE SCHEMA em;
+GO
+
+Create table em.Student(
+    Id INT IDENTITY(1,1),
+    GUID UNIQUEIDENTIFIER,
+    Name NVARCHAR(500)
+)
+GO
+
+ALTER TABLE em.Student
+ADD CONSTRAINT PK_Student PRIMARY KEY (Id)
