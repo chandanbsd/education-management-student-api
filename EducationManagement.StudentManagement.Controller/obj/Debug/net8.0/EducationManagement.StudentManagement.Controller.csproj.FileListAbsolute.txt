@@ -31,3 +31,4 @@
 /Users/chandanbsd/Projects/education-management-student-api/EducationManagement.StudentManagement.Controller/obj/Debug/net8.0/EducationManagement.StudentManagement.Controller.pdb
 /Users/chandanbsd/Projects/education-management-student-api/EducationManagement.StudentManagement.Controller/obj/Debug/net8.0/EducationManagement.StudentManagement.Controller.genruntimeconfig.cache
 /Users/chandanbsd/Projects/education-management-student-api/EducationManagement.StudentManagement.Controller/obj/Debug/net8.0/ref/EducationManagement.StudentManagement.Controller.dll
+/Users/chandanbsd/Projects/education-management-student-api/EducationManagement.StudentManagement.Controller/obj/Debug/net8.0/EducationManagement.StudentManagement.Controller.sourcelink.json
