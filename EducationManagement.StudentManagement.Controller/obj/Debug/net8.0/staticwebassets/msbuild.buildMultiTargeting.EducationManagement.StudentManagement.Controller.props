@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\EducationManagement.StudentManagement.Controller.props" />
-</Project>
