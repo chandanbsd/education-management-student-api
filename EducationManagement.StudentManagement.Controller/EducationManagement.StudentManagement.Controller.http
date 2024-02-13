@@ -1,6 +1,0 @@
-@EducationManagement.StudentManagement.Controller_HostAddress = http://localhost:5133
-
-GET {{EducationManagement.StudentManagement.Controller_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
