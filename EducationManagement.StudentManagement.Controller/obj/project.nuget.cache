@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "22iubAdhu6H2Zk9+yCv6adGyyOlfxKGB4OmSq8rAWpfxpkX2WQXMSdNJK4o16XshWjeX3vev/KwKZO9GLQGhjw==",
+  "dgSpecHash": "7K3ZqFHm/e5HwhyVv5NXdx/IvtGz1oczJ65gOYMVhIx2xPM069fqgQwN93rLlDYir8pSr+jv4HUjEbaE8gx78Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denan\\dev\\ems\\education-management-student-api\\EducationManagement.StudentManagement.Controller\\EducationManagement.StudentManagement.Controller.csproj",
+  "projectFilePath": "C:\\Users\\denan\\dev\\ems\\education-management-student-api\\EducationManagement.StudentManagement.Controller\\EducationManagement.StudentManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\denan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

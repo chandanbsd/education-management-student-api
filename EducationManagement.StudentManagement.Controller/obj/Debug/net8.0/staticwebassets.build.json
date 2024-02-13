@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "mH14Bk7AMn2C2s8FxNS2IE23RF1TkweKZIPmQkSZpDs=",
-  "Source": "EducationManagement.StudentManagement.Controller",
-  "BasePath": "_content/EducationManagement.StudentManagement.Controller",
+  "Hash": "4OY20dl/uIx0DvWiKhszLVoRvudLDX9pH37tTmO2KMQ=",
+  "Source": "EducationManagement.StudentManagement.Api",
+  "BasePath": "_content/EducationManagement.StudentManagement.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
